@@ -1,6 +1,6 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats-dabeann.vercel.app/?username=dabeann&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats-git-master-dabeann.vercel.app/?username=dabeann&show_icons=true&theme=swift)
 
 
 <!--
