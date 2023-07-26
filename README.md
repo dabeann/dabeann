@@ -15,7 +15,7 @@
 <span><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/></span>
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabeann&show_icons=true&theme=buefy)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/dabeann/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabeann&show_icons=true&theme=buefy&include_all_commits=true&count_private=true)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/dabeann/github-readme-stats)
 
 </div>
 
