@@ -23,10 +23,14 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:dabin6469@naver.com)](mailto:dabin6469@naver.com)
 <br><br>
 
+### log
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabeann&show_icons=true&theme=buefy&include_all_commits=true&count_private=true)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/dabeann/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dabin478)](https://solved.ac/dabin478/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dabin478)](https://solved.ac/dabin478)
 
 </div>
 
-<!-- <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></span> -->
+<!-- 
+<span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></span> 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dabin478)](https://solved.ac/dabin478/)
+-->
