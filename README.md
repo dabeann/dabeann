@@ -26,7 +26,7 @@
 ### log
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabeann&show_icons=true&theme=buefy&include_all_commits=true&count_private=true)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/dabeann/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dabin478)](https://solved.ac/dabin478)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dabin478)](https://solved.ac/dabin478)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdabeann%2Fhit-counter&count_bg=%23FFC1C1&title_bg=%23FFADB9&icon=smugmug.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
