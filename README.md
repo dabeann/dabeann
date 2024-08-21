@@ -4,10 +4,10 @@
 
 
 ### ✨ Blog Link ✨
-[dabeann's develop blog](https://dabeann.github.io/)<br><br>
+[**dabeann's develop blog**](https://dabeann.github.io/)<br><br>
 
 ### 💚 Portfolio 💚
-[dabin's portfolio](https://lunar-seeder-66f.notion.site/Hi-I-m-dabin-5120d74d080a4a89889bbe5f0117610d?pvs=4)<br><br>
+[**dabin's portfolio**](https://lunar-seeder-66f.notion.site/Hi-I-m-dabin-5120d74d080a4a89889bbe5f0117610d?pvs=4)<br><br>
 
 ### 🖥️ Tech Stack 🖥️
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></span>
